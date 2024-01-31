@@ -10,9 +10,6 @@ Formado na Alura em cursos de programação focado para o Android nativo em Kotl
 <a href="https://cursos.alura.com.br/user/murilo-bioni/fullCertificate/c84457af862999f9efb9772eb8b75761" title="Certificado Alura" target="_blank">
 <img src="https://img.shields.io/badge/Certificado%20Alura-001333?style=for-the-badge" alt="Certificado Alura"/></a>
 
-Sou dedicado, com disposição em aprender conhecimentos novos. E estou em transição de carreira, saindo da área de Educação Física.
-
-
 <h2 align="left">
  💻 Linguagens:
 </h2>
