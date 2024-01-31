@@ -10,16 +10,20 @@ Formado na Alura em cursos de programação focado para o Android nativo em Kotl
 <a href="https://cursos.alura.com.br/user/murilo-bioni/fullCertificate/c84457af862999f9efb9772eb8b75761" title="Certificado Alura" target="_blank">
 <img src="https://img.shields.io/badge/Certificado%20Alura-001333?style=for-the-badge" alt="Certificado Alura"/></a>
 
+Esse espaço serve para colocar meus projetos de aplicativos em Android e de portfólio.
+
+Caso tenha uma sugestão, melhoria nos meus projetos ou encontrou algum bug, fique a vontade para fazer um pull request.
+
+</br>
 <h2 align="left">
  💻 Linguagens:
 </h2>
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Android Nativo](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 <p align="left">
-  
+
 <h2 align="left">
  📚 Frameworks e outras Skills:
 </h2>
@@ -49,12 +53,10 @@ Formado na Alura em cursos de programação focado para o Android nativo em Kotl
 ![Compose Test](https://img.shields.io/badge/Compose_Test-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![UI Automator](https://img.shields.io/badge/UI_Automator-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-
-
-
-<p align="left">
+</br>
+<h2 align="left">
   📱 Sinta-se a vontade para entrar em contato: ⤵️
-</p>
+</h2>
 
 <a href="https://www.linkedin.com/in/murilo-bioni-caruso-5a1b41136/" title="LinkedIn" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
