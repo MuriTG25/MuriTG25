@@ -16,19 +16,34 @@ Sou dedicado, com disposição em aprender conhecimentos novos. E estou em trans
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android Nativo](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 <p align="left">
   
 <h2 align="left">
- 💻 Frameworks e outras Skills:
+ 📚 Frameworks e outras Skills:
 </h2>
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![VsCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Room_Database](https://img.shields.io/badge/Room_Database-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt-2596be?style=for-the-badge&logo=android&logoColor=white)
+![Navigation Compose](https://img.shields.io/badge/Navigation_Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Ktor](https://img.shields.io/badge/Ktor-ff7500?style=for-the-badge&logo=android&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-50bc84?style=for-the-badge&logo=android&logoColor=white)
+
+![Arquitetura_MVVM](https://img.shields.io/badge/Arquitetura_MVVM-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kluent](https://img.shields.io/badge/Kluent-292929?style=for-the-badge&logo=junit5&logoColor=white)
+![Junit](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 <p align="left">
-  💌 Sinta-se a vontade para entrar em contato: ⤵️
+  📱 Sinta-se a vontade para entrar em contato: ⤵️
 </p>
 
 <a href="https://www.linkedin.com/in/murilo-bioni-caruso-5a1b41136/" title="LinkedIn" target="_blank">
@@ -36,6 +51,9 @@ Sou dedicado, com disposição em aprender conhecimentos novos. E estou em trans
 
 <a href="https://wa.me/+5511975431555" title="WhatsApp" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+
+<a href="mailto:murilob.programador@gmail.com" title="Gmail" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
 <br>
 <br>
