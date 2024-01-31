@@ -31,16 +31,26 @@ Sou dedicado, com disposição em aprender conhecimentos novos. E estou em trans
 ![VsCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Room_Database](https://img.shields.io/badge/Room_Database-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Hilt](https://img.shields.io/badge/Hilt-2596be?style=for-the-badge&logo=android&logoColor=white)
+
 ![Navigation Compose](https://img.shields.io/badge/Navigation_Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Ktor](https://img.shields.io/badge/Ktor-ff7500?style=for-the-badge&logo=android&logoColor=white)
 ![Retrofit](https://img.shields.io/badge/Retrofit-50bc84?style=for-the-badge&logo=android&logoColor=white)
-
 ![Arquitetura_MVVM](https://img.shields.io/badge/Arquitetura_MVVM-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kluent](https://img.shields.io/badge/Kluent-292929?style=for-the-badge&logo=junit5&logoColor=white)
+![Material_Design_3](https://img.shields.io/badge/Material_Design_3-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
+
 ![Junit](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Kluent](https://img.shields.io/badge/Kluent-292929?style=for-the-badge&logo=android&logoColor=white)
+![Mockk](https://img.shields.io/badge/Mockk-fe1097?style=for-the-badge&logo=android&logoColor=white)
+![Compose Test](https://img.shields.io/badge/Compose_Test-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![UI Automator](https://img.shields.io/badge/UI_Automator-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+
+
 
 <p align="left">
   📱 Sinta-se a vontade para entrar em contato: ⤵️
