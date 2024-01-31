@@ -5,14 +5,14 @@
 <p align="left"> 
 Tenho 29 anos, moro em Salto, interior de São Paulo e sou <strong>Desenvolvedor Mobile Kotlin Nativo</strong>.
 
-Formado na Alura em cursos de programação focado para o Android nativo em Kotlin e com outros cursos.
+<strong>Formado na Alura</strong> em cursos de programação focado para o Android nativo em Kotlin e com outros cursos.
 
 <a href="https://cursos.alura.com.br/user/murilo-bioni/fullCertificate/c84457af862999f9efb9772eb8b75761" title="Certificado Alura" target="_blank">
 <img src="https://img.shields.io/badge/Certificado%20Alura-001333?style=for-the-badge" alt="Certificado Alura"/></a>
 
 Esse espaço serve para colocar meus projetos de aplicativos em Android e de portfólio.
 
-Caso tenha uma sugestão, melhoria nos meus projetos ou encontrou algum bug, fique a vontade para fazer um pull request.
+Caso tenha uma sugestão, melhoria nos meus projetos ou encontrou algum bug, fique a vontade para fazer um <strong> pull request</strong>.
 
 </br>
 <h2 align="left">
