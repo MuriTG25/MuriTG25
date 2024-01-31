@@ -79,7 +79,7 @@ Formado na Alura em cursos de programação focado para o Android nativo em Kotl
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriTG25&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriTG25&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"
         alt="Github stats"
       />
     </td>
