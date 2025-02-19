@@ -3,11 +3,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Tenho 29 anos, moro em Salto, interior de São Paulo e sou <strong>Desenvolvedor Mobile Kotlin Nativo</strong>.
+Tenho 30 anos, moro em Salto, interior de São Paulo e sou <strong>Desenvolvedor Mobile Kotlin Nativo</strong>.
 
-<strong>Formado na Alura</strong> em cursos de programação focado para o Android nativo em Kotlin e com outros cursos.
+<strong>Formado na Alura</strong> em cursos de programação focado para o Android nativo em Kotlin e com outros cursos, atualmente sou estudante de <strong>Análise e Desenvolvimento de Sistemas na Fatec Indaiatuba</strong>.
 
-Esse espaço serve para colocar meus projetos de aplicativos em Android e de portfólio.
+Esse espaço serve para colocar meus projetos de aplicativos em Android, de outras plataformas e de portfólio.
 
 Caso tenha uma sugestão, melhoria nos meus projetos ou encontrou algum bug, fique a vontade para fazer um <strong> pull request</strong>.
 </br>
@@ -23,6 +23,9 @@ Caso tenha uma sugestão, melhoria nos meus projetos ou encontrou algum bug, fiq
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android Nativo](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 <p align="left">
 
